@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Petterin\\UWP_apps\\input_cleaner\\input_cleaner\\input_cleaner.csproj": {}
+    "D:\\Petterin\\UWP_apps\\input_cleaner\\input-cleaner\\input_cleaner\\input_cleaner.csproj": {}
   },
   "projects": {
-    "D:\\Petterin\\UWP_apps\\input_cleaner\\input_cleaner\\input_cleaner.csproj": {
+    "D:\\Petterin\\UWP_apps\\input_cleaner\\input-cleaner\\input_cleaner\\input_cleaner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Petterin\\UWP_apps\\input_cleaner\\input_cleaner\\input_cleaner.csproj",
+        "projectUniqueName": "D:\\Petterin\\UWP_apps\\input_cleaner\\input-cleaner\\input_cleaner\\input_cleaner.csproj",
         "projectName": "input_cleaner",
-        "projectPath": "D:\\Petterin\\UWP_apps\\input_cleaner\\input_cleaner\\input_cleaner.csproj",
+        "projectPath": "D:\\Petterin\\UWP_apps\\input_cleaner\\input-cleaner\\input_cleaner\\input_cleaner.csproj",
         "packagesPath": "C:\\Users\\pputkine\\.nuget\\packages\\",
-        "outputPath": "D:\\Petterin\\UWP_apps\\input_cleaner\\input_cleaner\\obj\\",
+        "outputPath": "D:\\Petterin\\UWP_apps\\input_cleaner\\input-cleaner\\input_cleaner\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

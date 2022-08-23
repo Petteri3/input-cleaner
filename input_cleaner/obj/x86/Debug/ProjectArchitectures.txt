@@ -1,1 +1,1 @@
-D:\Petterin\UWP_apps\input_cleaner\input_cleaner\input_cleaner.csproj;x86
+D:\Petterin\UWP_apps\input_cleaner\input-cleaner\input_cleaner\input_cleaner.csproj;x86

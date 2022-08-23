@@ -12,7 +12,7 @@
 		<TextBlock Margin="20"  FontSize="30" Foreground="Aqua">Liitä siivottava teksti tähän:</TextBlock>
 		<TextBox x:ConnectionId='2' Margin="20" x:Name="inputti" FontSize="20" TextWrapping="Wrap" AcceptsReturn="True" PlaceholderText="paste here"></TextBox>
 		<TextBlock x:ConnectionId='3' Margin="20" x:Name="outputtii" FontSize="20" Foreground="Aqua" TextWrapping="WrapWholeWords" ></TextBlock>
-		<Button x:ConnectionId='4' Margin="20" x:Name="nappi"                       FontSize="30" Width="300" >Korjaa ja kopioi</Button>
+		<Button x:ConnectionId='4' Margin="20" x:Name="nappi"                       FontSize="30" Width="280" >Korjaa ja kopioi</Button>
 
 	</StackPanel>
 </Page>

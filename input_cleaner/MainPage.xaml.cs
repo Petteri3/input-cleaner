@@ -33,11 +33,11 @@ namespace input_cleaner
         // siivotaan stringistä väärät merkit ja palautetaan siivottu string
         public string Cleaninput(string _input)
         {
-            string[] forbiddenChars = { "<", ">", ".", "+", "\\", "/", "@", "=", "{", "}", "\""};
+            string[] forbiddenChars = { "<", ">", ".", "+", "\\", "/", "@", "=", "{", "}", "\"", "\n", "\r" };
 
             for (int i = 0; i < forbiddenChars.Length; i++)
             {
-                _input = _input.Replace(forbiddenChars[i], "");
+                _input = _input.Replace(forbiddenChars[i], " ");
             }
             return _input;
         }
